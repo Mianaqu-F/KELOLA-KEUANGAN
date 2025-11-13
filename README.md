@@ -393,29 +393,9 @@ Kami sangat menghargai kontribusi Anda! Berikut adalah panduan untuk berkontribu
 
 ---
 
-## � License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 📞 Support
-
-Jika Anda mengalami masalah atau memiliki pertanyaan:
-
--   📧 **Email**: support@finansphere.com
--   🐛 **Issues**: [GitHub Issues](https://github.com/Halfirzzha/FinanSphere/issues)
--   📖 **Documentation**: [Wiki](https://github.com/Halfirzzha/FinanSphere/wiki)
-
----
-
 ## 🙏 Acknowledgments
 
 -   [Laravel](https://laravel.com) - The PHP Framework for Web Artisans
 -   [Filament](https://filamentphp.com) - The elegant TALL stack admin panel
 -   [Redis](https://redis.io) - In-memory data structure store
 -   [MySQL](https://mysql.com) - World's most popular open source database
-
----
-
-**Made with ❤️ by FinanSphere Team**
